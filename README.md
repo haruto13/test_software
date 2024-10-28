@@ -1,5 +1,9 @@
 # test_software
 
+## Github 用語集
+https://qiita.com/shinshingodmt/items/637cf9e5c6660509c460
+
+
 ### GitHubで共同開発のためのチュートリアル
 https://qiita.com/takeokunn/items/5bc499121a21f8c5b990
 
