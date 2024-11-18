@@ -12,3 +12,6 @@ https://hyomolution.com/android-studio-japanese-localization/#toc3
 
 ### AndroidStudioでカレンダーを作ろう
 https://qiita.com/zono0013/items/ea8487185026103d1544
+
+### Android StudioでGithub上のプロジェクトをCloneする
+https://qiita.com/saya_/items/8d838c8c20609a5062b5
